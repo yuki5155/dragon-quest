@@ -1,0 +1,10 @@
+hero = {"hero": "勇者"}
+fighter = {"fighter": "戦士"}
+Wizard = {"Wizard": "魔法使い"}
+Pilgrim = {"Pilgrim": "僧侶"}
+Martial_Artist = {"Martial Artist": "武闘家"}
+Merchant = {"Merchant": "商人"}
+Goof_Off = {"Goof-Off": "遊び人"}
+Sage = {"Sage": "賢者"}
+Thief = {"Thief": "盗賊"}
+Monster_Master = {"Monster-Master": "魔物使い"}
